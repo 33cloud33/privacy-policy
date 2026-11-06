@@ -29,9 +29,13 @@ L'app scarica i tassi di riferimento della Banca Centrale Europea. Per le valute
 **Come elimino tutti i miei dati?**
 Elimina l'app dal dispositivo: i dati vengono cancellati con lei. Se vuoi conservarli, crea prima un backup.
 
+## Esclusione di responsabilità
+
+BudgetEasy è uno strumento per tenere traccia delle tue finanze personali. Interessi, rate dei mutui, conversioni di valuta e statistiche sono calcolati in base ai dati che inserisci e sono stime indicative: non costituiscono consulenza finanziaria, fiscale o legale. L'app non è collegata a banche e non concede prestiti. Per decisioni importanti verifica le cifre con la tua banca o con un professionista.
+
 ## Privacy
 
-BudgetEasy non raccoglie dati personali. Leggi l'[informativa sulla privacy](https://github.com/33cloud33/privacy-policy/blob/main/Privacy-Policy.md).
+BudgetEasy non raccoglie dati personali. Leggi l'[informativa sulla privacy](https://33cloud33.github.io/privacy-policy/Privacy-Policy).
 
 ---
 
@@ -66,6 +70,10 @@ The app downloads the European Central Bank's reference rates. For currencies th
 **How do I delete all my data?**
 Delete the app from your device: its data is deleted with it. To keep it, create a backup first.
 
+## Disclaimer
+
+BudgetEasy is a tool for tracking your personal finances. Interest, mortgage installments, currency conversions and statistics are calculated from the data you enter and are estimates only: they are not financial, tax or legal advice. The app isn't connected to any bank and doesn't provide loans. For important decisions, check the figures with your bank or a professional.
+
 ## Privacy
 
-BudgetEasy doesn't collect any personal data. Read the [privacy policy](https://github.com/33cloud33/privacy-policy/blob/main/Privacy-Policy.md).
+BudgetEasy doesn't collect any personal data. Read the [privacy policy](https://33cloud33.github.io/privacy-policy/Privacy-Policy).
